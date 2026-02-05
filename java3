@@ -1,0 +1,13 @@
+public class program3 {
+    public static void main(String[] args) {
+        int num=5;
+        System.out.println(num++);
+        int b=++num;
+        System.out.println(b);
+        int n =6;
+        System.out.println(--n);
+        int c=n--;
+        System.out.println(c);
+
+    }
+}
