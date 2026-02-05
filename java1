@@ -1,0 +1,14 @@
+public class program1 {
+    public static void main(String args[])
+    {
+        int num1 =23;
+        byte by=127;
+        short sh=558;
+        long l=5234l;
+        float f=5.8f;
+        double d=4.8;
+        char c='k';
+        boolean b =true;
+        
+    }
+}
